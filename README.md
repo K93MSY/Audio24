@@ -12,3 +12,6 @@ node index.js
  put Mp3file in ./sounds/an/
  rename ___filenumber___.mp3
  add detail in sound-info.json
+
+
+#### Audio Spectrum is from Here<https://github.com/xAzz/AudioSpectrum>
