@@ -1,4 +1,7 @@
 # Audio24
+
+## HAPPEN ERROR
+
 ### An tool always Send random sound file.  
 
 ### build  
