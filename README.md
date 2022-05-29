@@ -9,9 +9,9 @@ node index.js
 ```
 
 ### How to use
- put Mp3file in ./sounds/an/
- rename ___filenumber___.mp3
- add detail in sound-info.json
+ put Mp3file in ./sounds/an/  
+ rename ___filenumber___.mp3  
+ add total sound files number in sound-info.json  
 
 
 #### Audio Spectrum is from Here<https://github.com/xAzz/AudioSpectrum>
